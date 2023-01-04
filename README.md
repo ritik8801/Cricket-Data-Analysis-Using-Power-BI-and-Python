@@ -10,19 +10,25 @@
 ## Screenshots
 
 Power Hitter/Openers Dashboard
+
 ![App Screenshot](https://github.com/ritik8801/Cricket-Data-Analytics-Using-Power-BI-and-Python/blob/main/Screenshots/Power%20Hitter_%20Openers%20Dashboard.png)
 
 All Rounder/Lower Middle Order Dashboard
+
 ![App Screenshot](https://github.com/ritik8801/Cricket-Data-Analytics-Using-Power-BI-and-Python/blob/main/Screenshots/All%20Rounder_Lower%20Middle%20Order%20Dashboard.png)
 
 Anchors/Middle Order Dashboard
+
 ![App Screenshot](https://github.com/ritik8801/Cricket-Data-Analytics-Using-Power-BI-and-Python/blob/main/Screenshots/Anchors_Middle%20Order%20Dashboard.png)
 
 Finisher/Lower Order Dashboard
+
 ![App Screenshot](https://github.com/ritik8801/Cricket-Data-Analytics-Using-Power-BI-and-Python/blob/main/Screenshots/Finisher_Lower%20Order%20Dashboard.png)
 
 Fast Bowlers/Tail End Dashboard
+
 ![App Screenshot](https://github.com/ritik8801/Cricket-Data-Analytics-Using-Power-BI-and-Python/blob/main/Screenshots/Fast%20Bowlers_Tail%20End%20Dashboard.png)
 
 Final 11 Dashboard
+
 ![App Screenshot](https://github.com/ritik8801/Cricket-Data-Analytics-Using-Power-BI-and-Python/blob/main/Screenshots/Final%2011%20Dashboard.png)
