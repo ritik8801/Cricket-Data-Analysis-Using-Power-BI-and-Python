@@ -1,5 +1,5 @@
 
-# Data Analytics on Diabetes Dataset Using Python and Tableau
+# Data Analytics on Cricket Dataset Using PowerBI and Python
 
 1) Analyzed data from over 50 T20 matches played during the 2022 world cup, using various statistical and machine learning techniques, to identify the most effective players and build a dream team.
 
